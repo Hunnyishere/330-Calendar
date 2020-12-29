@@ -1,5 +1,5 @@
 #### Languages / Framework
-- Frontend: Javascript (JQuery)
+- Frontend: HTML + Javascript (JQuery)
 - Server-client communication: Ajax
 - Backend: PHP
 - Database: MySQL
