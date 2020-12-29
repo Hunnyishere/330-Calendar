@@ -1,3 +1,9 @@
+#### Languages / Framework
+- Frontend: Javascript (JQuery)
+- Server-client communication: Ajax
+- Backend: PHP
+- Database: MySQL
+
 #### Basic Functions
 - Events can be added, modified, and deleted in calendar view
 - Users can register, login, logout
