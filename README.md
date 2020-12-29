@@ -7,7 +7,7 @@
 username:zoe  password:zoe  
 username:eimee  password:eimee
 
-## Creative portion
+#### Creative portion
 - User can tag an event with particular category and look up events by tags.  
 - User can share their events with other users, who will then get a duplicate event.  
 - User can create groups. Event created as group events will display on all members' calendars and members can cooperate on group events. 
